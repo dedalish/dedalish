@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3d print
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me https://steamcommunity.com/id/onetwoalish/
+- 📫 How to reach me https://vk.com/lehakarasava
 
 <!---
 dedalish/dedalish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
